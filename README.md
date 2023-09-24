@@ -1,7 +1,6 @@
-Unveiling the Story Behind Sales Data
+# Unveiling the Story Behind Sales Data
 
-
-🔎 Objective 🔎
+## Objective 
 
 ▶️ Uncover hidden trends.
 
@@ -12,7 +11,7 @@ Unveiling the Story Behind Sales Data
 ▶️ Watch for Low Performing Products/Cities.
 
 
-💡 Project Overview 💡
+ ## Overview
 
 ▶️ Sales trends over time.
 
@@ -21,7 +20,7 @@ Unveiling the Story Behind Sales Data
 ▶️ Key Revenue Metrics.
 
 
-📉 Key Insights 📈
+## Key Insights 
 
 ✅ The total sales revenue of $34.49M during the examined period paints a picture of robust overall sales success.
 
@@ -39,11 +38,11 @@ Unveiling the Story Behind Sales Data
 
 These insights provide a valuable foundation for making data-driven decisions and optimizing sales strategies.
 
-📎 Links -
+## Links -
 
-📊 Dashboard - https://lnkd.in/dtCkjjqF
+## Dashboard - https://lnkd.in/dtCkjjqF
 
-🗨 LinkedIn - https://lnkd.in/dJDfmCpu
+## LinkedIn - https://lnkd.in/dJDfmCpu
 
 💌 I love for you to take it for a spin and share your feedback. Your insights are valuable in helping me to improve and update new ideas. 💌
 
